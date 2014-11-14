@@ -1,6 +1,5 @@
 package com.errand;
 
-public interface Sentence {
+public interface Sentence extends Translatable {
 
-	String translate();
 }
